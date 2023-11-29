@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Peggy</h1>
 <h3 align="center">Adept front-end developer focusing on JavaScript mobile-first development.</h3>
-<img align="left" alt="banner" width="600" src="https://img.freepik.com/premium-photo/anime-girl-sitting-desk-with-laptop-keyboard-generative-ai_958078-50067.jpg?w=826">
+<img align="left" alt="banner" width="500" src="https://img.freepik.com/premium-photo/anime-girl-sitting-desk-with-laptop-keyboard-generative-ai_958078-50067.jpg?w=826">
 
 - 🔭 I’m currently working on [Tarkhinehfood](https://tarkhinehfood.netlify.app)
 
